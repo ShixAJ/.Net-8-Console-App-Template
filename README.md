@@ -1,5 +1,5 @@
 # .Net-8-Console-App-Template
-Configuration + Logging Template without Dependency Injection
+Configuration + Logging Template without Dependency Injection or Hosting package
 
 ## Template includes
 + Configuration from appsettings.json
